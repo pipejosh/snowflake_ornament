@@ -1,30 +1,36 @@
-Snow flakes ornaments
+# Snowflakes Ornaments
 
-a simple proyect, an easy print and without supports!!
+A simple project: easy to print and support‑free.
 
+## Design Process
 
-Design proces:
+### Illustration
 
-Illustration; this being the first step, with some insipration from outside, a pen, paper and music, the initla sketches were doone, sou after the sketch I hopped into illustrator vectorizing this images and later exporting them as an dxf 
+The first step started with external inspiration, a pen, paper, and music. After drafting the initial sketches, the artwork was vectorized in Adobe Illustrator and exported as a DXF file.
 
-![Illustrator file](Captura de pantalla 2025-12-07 210241.png)
+![Illustrator file](./Captura%20de%20pantalla%202025-12-07%20210241.png)
 
+### 3D Modeling
 
+With the DXF prepared, the modeling process in Fusion 360 was straightforward. Extruding the individual elements took approximately 30 minutes.
 
-3d Modeling: With the dxf done, it was just light work to hop into fusion 360 and extrude the little pieces, taking me just 30 minutes.
+![Fusion modeling](./Captura%20de%20pantalla%202025-12-07%20210703.png)
 
-![Fusion modeling](Captura de pantalla 2025-12-07 210703.png)
+### 3D Printing
 
+This stage required additional tuning since printer settings were not fully optimized, resulting in some warping on early attempts. After adjustments and adding a small brim, the print came out perfectly: quick, clean, and entirely supportless.
 
-3d print: This took a bit more time since i dont the setting dialed in for my 3d printer, so i had a bit of warping, but nowwww HOLY the print was perfect, the little brim I added make it perfect, no issues, so fast and most importanly supportless
+![Finished print 1](./Captura%20de%20pantalla%202025-12-08%20184911.png)
+![Finished print 2](./Captura%20de%20pantalla%202025-12-08%20184943.png)
+![Finished print 3](./Captura%20de%20pantalla%202025-12-08%20184957.png)
 
-![finishes print1](Captura de pantalla 2025-12-08 184911.png)
-![finishes print2](Captura de pantalla 2025-12-08 184943.png)
-![finishes print3](Captura de pantalla 2025-12-08 184957.png)
+## Download the Model
 
+Available on both MakerWorld and Nexprint:
 
-If anyone wants to donwload the model here is the link in either makerwold (printed in my friend bambulab a1 mini) orrr nexprint (printed myself in my centauri carbon)
+MakerWorld (printed on a Bambu Lab A1 Mini):
+[https://makerworld.com/es/models/2094323-holiday-snowflake-ornament-pack#profileId-2264283](https://makerworld.com/es/models/2094323-holiday-snowflake-ornament-pack#profileId-2264283)
 
-https://makerworld.com/es/models/2094323-holiday-snowflake-ornament-pack#profileId-2264283
+Nexprint (printed on a Centauri Carbon):
+[https://www.nexprint.com/en/models/G0458268?component=UserPublish&printConfigId=G3687065](https://www.nexprint.com/en/models/G0458268?component=UserPublish&printConfigId=G3687065)
 
-https://www.nexprint.com/en/models/G0458268?component=UserPublish&printConfigId=G3687065
